@@ -107,3 +107,10 @@ Visit: `http://127.0.0.1:5000` in your browser.
 Got suggestions or improvements? Open an issue or fork the project and create a pull request!
 
 ---
+
+## 📞 Contact
+
+[Mail](shivakumarsouta18@gmail.com)
+[LinkedIn](https://linkedin.com/in/shivakumarsouta)
+[GitHub](https://github.com/shivkumars005)
+[Portfolio](https://shivakumarsouta-portfolio.vercel.app)
