@@ -48,7 +48,7 @@ project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shivkumars005/Sentiment-Analysis.git
+git clone https://github.com/shivakumarsouta/Sentiment-Analysis.git
 cd sentiment-analysis
 ```
 
@@ -112,5 +112,5 @@ Got suggestions or improvements? Open an issue or fork the project and create a 
 
 [Mail](shivakumarsouta18@gmail.com)
 [LinkedIn](https://linkedin.com/in/shivakumarsouta)
-[GitHub](https://github.com/shivkumars005)
+[GitHub](https://github.com/shivakumarsouta)
 [Portfolio](https://shivakumarsouta-portfolio.vercel.app)
